@@ -46,17 +46,17 @@ Empower decision-making through smart admin tools and analytics.
 
 🖼 Screenshots of our project
 
-![alt text](public\loginPage.png)
+![alt text](public/loginPage.png)
 
-![alt text](public\gradesheet.png)
+![alt text](public/gradesheet.png)
 
-![alt text](public\aiAssist.png)
+![alt text](public/aiAssist.png)
 
-![alt text](public\attendance.png)
+![alt text](public/attendance.png)
 
-![alt text](public\studentDash.png)
+![alt text](public/studentDash.png)
 
-![alt text](public\studentReports.png)
+![alt text](public/studentReports.png)
 
 
 🛠 Tech Stack
