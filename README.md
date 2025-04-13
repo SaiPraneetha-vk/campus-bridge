@@ -48,7 +48,7 @@ Empower decision-making through smart admin tools and analytics.
 
 ![alt text](public\loginPage.png)
 
-![alt text](public/gradesheet.png)
+![alt text](public\gradesheet.png)
 
 ![alt text](public\aiAssist.png)
 
@@ -70,7 +70,6 @@ Auth: Context API-based Auth Layer (role-based routing)
 
 Charts: Recharts (grade reports)
 
-Deployment-ready: Can be hosted via Vercel/Render/Netlify + Railway/Fly.io
 
 🚀 Future Enhancements
 🧠 Smarter AI responses based on user queries
