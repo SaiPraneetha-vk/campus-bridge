@@ -1,4 +1,11 @@
-📘 Project Overview – CampusBridge: College Portal System
+Project Title: CAMPUS BRIDGE
+
+Selected Domain: WEB DEVELOPMENT
+
+Problem Statement: “Campus Bridge – Integrated Academic LMS + Coding Skill Development Platform”
+
+Project Description:
+CampusBridge: College Portal System
 CampusBridge is a comprehensive, AI-integrated web portal designed to streamline academic and administrative processes in a college environment. It features role-based dashboards for students, faculty, and admins, each tailored with powerful tools and interactive modules to manage daily academic workflows.
 
 🎯 Core Objectives
